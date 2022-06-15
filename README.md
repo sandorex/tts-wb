@@ -1,2 +1,2 @@
-# tts-wb
-TTS Without Blood from your ears
+# tts-whl
+TTS Without Hearing Loss
